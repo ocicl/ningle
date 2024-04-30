@@ -4,7 +4,7 @@ Super micro framework for Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/fukamachi/ningle.git |
-| commit  | d988067                                     |
+| commit  | ae0c79b                                     |
 | systems | ningle                                      |
 |---------+---------------------------------------------|
 -----|
